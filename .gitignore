@@ -1,0 +1,2 @@
+# Ignore build directories of all steps
+build/
